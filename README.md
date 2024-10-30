@@ -26,5 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shena2001&icon=0&color=6)](https://visitcount.itsvg.in)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shena2001&theme=default)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
