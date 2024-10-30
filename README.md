@@ -29,7 +29,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shena2001&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shena2001&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shena2001&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shena2001&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shena2001&theme=aura&utcOffset=8)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
