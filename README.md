@@ -63,22 +63,22 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shena2001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shena2001&theme=transparent&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shena2001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShenalRajapaksha&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShenalRajapaksha&theme=transparent&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenalRajapaksha&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Shena2001&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShenalRajapaksha&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
   
   <h2>🔝 Top Contributed Repo</h2>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shena2001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ShenalRajapaksha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shena2001&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shena2001&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shena2001&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shena2001&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shena2001&theme=dark&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShenalRajapaksha&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShenalRajapaksha&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShenalRajapaksha&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShenalRajapaksha&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShenalRajapaksha&theme=dark&utcOffset=8)
 
   <hr/>
   <a href="https://visitcount.itsvg.in">
